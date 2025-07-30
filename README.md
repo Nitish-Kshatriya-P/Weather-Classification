@@ -2,4 +2,4 @@
 
 
 Weather classificaiton project leverages tensorflow and keras for differentiating the different weathers, above is an example as you can see. 
-Refer the documentation in the report folder for complete details. 
+Refer the documentation folder for complete details. 
